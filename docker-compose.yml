@@ -5,5 +5,5 @@ services:
     image: yesplaymusic
     container_name: YesPlayMusic
     ports:
-      - 80:80
+      - 808:80
     restart: always
