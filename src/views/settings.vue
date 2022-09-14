@@ -689,8 +689,8 @@
 
       <div class="footer">
         <p class="author"
-          >MADE BY
-          <a href="http://github.com/qier222" target="_blank">QIER222</a></p
+          >MAINTAIN BY
+          <a href="http://github.com/captainvalk" target="_blank">但老师的GitHub</a></p
         >
         <p class="version">v{{ version }}</p>
 
@@ -700,7 +700,7 @@
         >
           <img
             height="36"
-            src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg"
+            src="https://blogs.dhwlinks.top/upload/2022/07/logo-docker.svg"
           />
         </a>
       </div>
