@@ -688,10 +688,6 @@
       </div>
 
       <div class="footer">
-        <p class="author"
-          >MAINTAIN BY
-          <a href="http://github.com/captainvalk" target="_blank">CaptainValk</a></p
-        >
         <p class="version">v{{ version }}</p>
 
         <a
