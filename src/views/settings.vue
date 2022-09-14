@@ -690,7 +690,7 @@
       <div class="footer">
         <p class="author"
           >MAINTAIN BY
-          <a href="http://github.com/captainvalk" target="_blank">但老师的GitHub</a></p
+          <a href="http://github.com/captainvalk" target="_blank">CaptainValk</a></p
         >
         <p class="version">v{{ version }}</p>
 
