@@ -700,7 +700,7 @@
         >
           <img
             height="36"
-            src="https://blogs.dhwlinks.top/upload/2022/07/logo-docker.svg"
+            src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg"
           />
         </a>
       </div>
